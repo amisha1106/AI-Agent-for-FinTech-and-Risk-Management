@@ -36,3 +36,5 @@ This project develops an AI-powered agent designed to assist in financial risk m
 
 
 
+
+![flowchart ](https://github.com/user-attachments/assets/2839609b-54cb-4e54-8b19-fce0cc89c87f)
