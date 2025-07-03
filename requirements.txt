@@ -4,6 +4,6 @@ numpy
 yfinance
 plotly
 ta
-tensorflow==2.15.0
+tensorflow==2.12.0
 scikit-learn
 vaderSentiment
