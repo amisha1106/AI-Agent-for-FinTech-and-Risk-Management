@@ -13,7 +13,6 @@ This project develops an AI-powered agent designed to assist in financial risk m
 ## Technologies Used
 - Python
 - LSTM (Long Short-Term Memory networks)
-- GARCH (Generalized Autoregressive Conditional Heteroskedasticity)
 - XGBoost
 - Markowitz Optimization
 - Graph Neural Networks (GNNs)
@@ -23,7 +22,7 @@ This project develops an AI-powered agent designed to assist in financial risk m
 
 ## Installation
 1. Clone the repository:
-   git clone https://github.com/yourusername/fintech-risk-agent.git
+   git clone https://github.com/amisha1106/fintech-risk-agent.git
 
 ## Usage
 - Run model training scripts for volatility forecasting, portfolio optimization, and fraud detection.
